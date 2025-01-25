@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITLA.resumen01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8639fd0a64b46d3df01e20aa2562e9d15e055971")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITLA.resumen01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITLA.resumen01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
